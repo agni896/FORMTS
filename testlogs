@@ -1,0 +1,667 @@
+29/09/2025 12:59:13:056  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InsertUSLog2
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___confidence to complex: SubMenu3:confidence  as [1]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___inputmode to complex: SubMenu3:inputmode  as [dtmf]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___interpretation to complex: SubMenu3:interpretation  as [3]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___noinputcount to complex: SubMenu3:noinputcount  as [0]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___nomatchcount to complex: SubMenu3:nomatchcount  as [0]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___utterance to complex: SubMenu3:utterance  as [3]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :SubMenu3___value to complex: SubMenu3:value  as [3]
+29/09/2025 12:59:13:067  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-Begin
+29/09/2025 12:59:13:068  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-InsertDB
+29/09/2025 12:59:13:068 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Start -------
+29/09/2025 12:59:13:068 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : All Values ::: 
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : callrefid =  2025090291258555390599
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : iuid =  989971
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : eii =  0
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : eni =  0
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : emc =  0
+29/09/2025 12:59:13:069 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : order =  2
+29/09/2025 12:59:13:081 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Done -------
+29/09/2025 12:59:13:081  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-next
+29/09/2025 12:59:13:105 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "CMMReport-next" forwarding to "ChkChoice2"
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ChkChoice2
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [SubMenu3:value] Numeric Equal [1]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition2] Expression [SubMenu3:value] Numeric Equal [2]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition3] Expression [SubMenu3:value] Numeric Equal [3]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [Life Insurance option 3] to [log_transaction:menu_desc]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Concatenating [,Life Insurance option 3] to [workingvariables:menu_list]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [Life Insurance option 3] to [log_history:lastmenu]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [989971_3] to [vdn:menuid]
+29/09/2025 12:59:13:105  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [989971_3] to [log_transaction:transaction_name]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SetUSLog6
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [IVRUsage] to [workingvariables:cmmlog]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [SubMenu3:value] Numeric Equal [3]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [989971_3] to [log_usage:menuid]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [log_usage:eii]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [log_usage:eni]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [log_usage:emc]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Incrementing [log_usage:order]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [No] to [log_usage:isdone]
+29/09/2025 12:59:13:106  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InsertUSLog7
+29/09/2025 12:59:13:107  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-Begin
+29/09/2025 12:59:13:107  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-InsertDB
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Start -------
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : All Values ::: 
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : callrefid =  2025090291258555390599
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : iuid =  989971_3
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : eii =  0
+29/09/2025 12:59:13:107 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : eni =  0
+29/09/2025 12:59:13:108 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : emc =  0
+29/09/2025 12:59:13:108 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : order =  3
+29/09/2025 12:59:13:109 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Done -------
+29/09/2025 12:59:13:109  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-next
+29/09/2025 12:59:13:109 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "CMMReport-next" forwarding to "GetVDN1"
+29/09/2025 12:59:13:109  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : GetVDN1
+29/09/2025 12:59:13:109 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get VDN Transfer Menu ID :: 989971_3
+29/09/2025 12:59:13:110 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get VDN Transfer VDN :: 5704
+29/09/2025 12:59:13:110 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get VDN Transfer HUNT :: 5053
+29/09/2025 12:59:13:110 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get VDN Transfer VIP :: 5712
+29/09/2025 12:59:13:111  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : GetAgentAvai
+29/09/2025 12:59:13:111 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get Number of Queue :: 5053
+29/09/2025 12:59:13:111 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Provider :: AVAYA#S8730#CSTA#MAYBANKAES;login=wbcraft;passwd=wbcraft01
+29/09/2025 12:59:13:369 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Provider create successfully
+29/09/2025 12:59:13:552 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Agents/States currently at 5053
+29/09/2025 12:59:13:603 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Agent[0] = 3008 State : READY
+29/09/2025 12:59:13:653 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Is Agent Avail :: 1
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CheckAgent
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:isAgentAvai] Numeric Equal [0]
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ResetVal5
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [workingvariables:invalid]
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [NRIC] to [workingvariables:frommenu]
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [] to [workingvariables:mobileinputmenu]
+29/09/2025 12:59:13:654  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : AnnInputNRIC
+29/09/2025 12:59:13:656 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/AnnInputNRIC] ***
+29/09/2025 12:59:13:656 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="AnnInputNRIC"> 
+8:<block> 
+9:<prompt bargein="true" bargeintype="speech" timeout="10000ms"> 
+10:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9a_1_NRIC_Prompt.wav"/> 
+11:</prompt> 
+12:</block> 
+13:<block> 
+14:<submit next="InputNRIC?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+15:</block> 
+16:</form> 
+17:</vxml> 
+18:
+
+29/09/2025 12:59:13:966  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InputNRIC
+29/09/2025 12:59:13:967 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/InputNRIC] ***
+29/09/2025 12:59:13:967 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="InputNRIC"> 
+8:<property name="termtimeout" value="1s" /> 
+9:<property name="interdigittimeout" value="5s" /> 
+10:<property name="maxnbest" value="1"/> 
+11:<var name="nbest" expr="1"/> 
+12:<var name="InputNRIC___value"/> 
+13:<var name="InputNRIC___confidence"/> 
+14:<var name="InputNRIC___utterance"/> 
+15:<var name="InputNRIC___inputmode"/> 
+16:<var name="InputNRIC___interpretation" expr="'undefined'"/> 
+17:<var name="InputNRIC___noinputcount" expr="'0'"/> 
+18:<var name="InputNRIC___nomatchcount" expr="'0'"/> 
+19:<var name="graminterp___finnumber" expr="'undefined'"/> 
+20:<field name="InputNRIC" modal="false"> 
+21:<property name="termchar" value="#" /> 
+22:<grammar  mode="dtmf" xml:lang="en-us" weight="1.0" src="builtin:dtmf/digits?length=7" maxage="0"/> 
+23:<catch event="noinput"> 
+24:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+25:    <throw event="Input" message="no input"/> 
+26:</catch> 
+27:<catch event="nomatch"> 
+28:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+29:    <throw event="Input" message="no match"/> 
+30:</catch> 
+31:<catch event="Input"> 
+32:<var name="workingvariables___invalid_msg" expr="try {objectToString(_message)} catch (errMsg) {'undefined'}"/> 
+33:<assign name="InputNRIC___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+34:<assign name="InputNRIC___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+35:<submit next="ErrorHandleFIN?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="workingvariables___invalid_msg InputNRIC___noinputcount InputNRIC___nomatchcount" method="post" enctype="multipart/form-data"/> 
+36:</catch> 
+37:<filled> 
+38:<assign name="InputNRIC___confidence" expr="getnbest('confidence', nbest)"/> 
+39:<assign name="InputNRIC___utterance" expr="getnbest('utterance', nbest)"/> 
+40:<assign name="InputNRIC___inputmode" expr="getnbest('inputmode', nbest)"/> 
+41:<assign name="InputNRIC___interpretation" expr="getnbest('interpretation', nbest)"/> 
+42:<if cond="startswith(InputNRIC___interpretation, 'undefined') == true "> 
+43:    <assign name="InputNRIC___interpretation" expr="getnbest('interpretation', nbest)"/> 
+44:</if> 
+45:<assign name="InputNRIC___value" expr="InputNRIC___interpretation"/> 
+46:<assign name="InputNRIC___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+47:<assign name="InputNRIC___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+48:</filled> 
+49:</field> 
+50:<block> 
+51:<submit next="ResetVal6?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="InputNRIC___value InputNRIC___confidence InputNRIC___utterance InputNRIC___inputmode InputNRIC___interpretation InputNRIC___noinputcount InputNRIC___nomatchcount" method="post"/> 
+52:</block> 
+53:</form> 
+54:</vxml> 
+55:
+
+29/09/2025 12:59:17:536  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ResetVal6
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___confidence to complex: InputNRIC:confidence  as [1]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___inputmode to complex: InputNRIC:inputmode  as [dtmf]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___interpretation to complex: InputNRIC:interpretation  as [1236549]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___noinputcount to complex: InputNRIC:noinputcount  as [0]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___nomatchcount to complex: InputNRIC:nomatchcount  as [0]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___utterance to complex: InputNRIC:utterance  as [1236549]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputNRIC___value to complex: InputNRIC:value  as [1236549]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [workingvariables:invalid]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [CFNRIC] to [workingvariables:frommenu]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [InputNRIC:value] to [log_history:nric]
+29/09/2025 12:59:17:548  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [] to [workingvariables:mobileinputmenu]
+29/09/2025 12:59:17:549  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : AnnNRIC
+29/09/2025 12:59:17:550 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/AnnNRIC] ***
+29/09/2025 12:59:17:550 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="AnnNRIC"> 
+8:<block> 
+9:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+10:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9a_1_1.wav"/> 
+11:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0031.wav">:1</audio> 
+12:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0032.wav">:2</audio> 
+13:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0033.wav">:3</audio> 
+14:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0036.wav">:6</audio> 
+15:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0035.wav">:5</audio> 
+16:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0034.wav">:4</audio> 
+17:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0039.wav">:9</audio> 
+18:</prompt> 
+19:</block> 
+20:<block> 
+21:<submit next="ConfirmNRIC?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+22:</block> 
+23:</form> 
+24:</vxml> 
+25:
+
+29/09/2025 12:59:17:883  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ConfirmNRIC
+29/09/2025 12:59:17:885 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/ConfirmNRIC] ***
+29/09/2025 12:59:17:885 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<property name="maxnbest" value="1"/> 
+8:<var name="nbest" expr="1"/> 
+9:<var name="ConfirmNRIC___value"/> 
+10:<var name="ConfirmNRIC___confidence"/> 
+11:<var name="ConfirmNRIC___utterance"/> 
+12:<var name="ConfirmNRIC___inputmode"/> 
+13:<var name="ConfirmNRIC___interpretation" expr="'undefined'"/> 
+14:<var name="ConfirmNRIC___noinputcount" expr="'0'"/> 
+15:<var name="ConfirmNRIC___nomatchcount" expr="'0'"/> 
+16:<var name="ddmenuchoice"/> 
+17:<menu id="ConfirmNRIC"> 
+18:<property name="termtimeout" value="1s" /> 
+19:<prompt bargein="true" bargeintype="speech" timeout="10000ms"> 
+20:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9a_Confirm.wav"/> 
+21:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9a_Reenter.wav"/> 
+22:</prompt> 
+23:<choice  dtmf="1" accept="exact" next="#choice0"> 
+24:</choice> 
+25:<choice  dtmf="2" accept="exact" next="#choice1"> 
+26:</choice> 
+27:<catch event="noinput"> 
+28:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+29:    <throw event="Input" message="no input"/> 
+30:</catch> 
+31:<catch event="nomatch"> 
+32:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+33:    <throw event="Input" message="no match"/> 
+34:</catch> 
+35:<catch event="Input"> 
+36:<var name="workingvariables___invalid_msg" expr="try {objectToString(_message)} catch (errMsg) {'undefined'}"/> 
+37:<assign name="ConfirmNRIC___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+38:<assign name="ConfirmNRIC___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+39:<submit next="ErrorHandlerCFNRIC?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="workingvariables___invalid_msg ConfirmNRIC___noinputcount ConfirmNRIC___nomatchcount" method="post" enctype="multipart/form-data"/> 
+40:</catch> 
+41:</menu> 
+42:<form id="choice0"> 
+43:<block> 
+44:<assign name="ddmenuchoice" expr="'HoldMusic3?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR'"/> 
+45:<goto next="#ddfinish"/> 
+46:</block> 
+47:</form> 
+48:<form id="choice1"> 
+49:<block> 
+50:<assign name="ddmenuchoice" expr="'ResetVal5?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR'"/> 
+51:<goto next="#ddfinish"/> 
+52:</block> 
+53:</form> 
+54:<form id="ddfinish"> 
+55:<property name="termtimeout" value="1s" /> 
+56:<block> 
+57:<assign name="ConfirmNRIC___confidence" expr="getnbest('confidence', nbest)"/> 
+58:<assign name="ConfirmNRIC___utterance" expr="getnbest('utterance', nbest)"/> 
+59:<assign name="ConfirmNRIC___inputmode" expr="getnbest('inputmode', nbest)"/> 
+60:<assign name="ConfirmNRIC___interpretation" expr="getnbest('interpretation', nbest)"/> 
+61:<if cond="startswith(ConfirmNRIC___interpretation, 'undefined') == true "> 
+62:    <assign name="ConfirmNRIC___interpretation" expr="getnbest('interpretation', nbest)"/> 
+63:</if> 
+64:<assign name="ConfirmNRIC___value" expr="ConfirmNRIC___interpretation"/> 
+65:<assign name="ConfirmNRIC___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+66:<assign name="ConfirmNRIC___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+67:<submit expr="ddmenuchoice" namelist="ConfirmNRIC___value ConfirmNRIC___confidence ConfirmNRIC___utterance ConfirmNRIC___inputmode ConfirmNRIC___interpretation ConfirmNRIC___noinputcount ConfirmNRIC___nomatchcount "  method="post"/> 
+68:</block> 
+69:</form> 
+70:</vxml> 
+71:
+
+29/09/2025 12:59:25:782  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : HoldMusic3
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___confidence to complex: ConfirmNRIC:confidence  as [1]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___inputmode to complex: ConfirmNRIC:inputmode  as [dtmf]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___interpretation to complex: ConfirmNRIC:interpretation  as [1]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___noinputcount to complex: ConfirmNRIC:noinputcount  as [0]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___nomatchcount to complex: ConfirmNRIC:nomatchcount  as [0]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___utterance to complex: ConfirmNRIC:utterance  as [1]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :ConfirmNRIC___value to complex: ConfirmNRIC:value  as [1]
+29/09/2025 12:59:25:794  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-Begin
+29/09/2025 12:59:25:795  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-HoldMusic
+29/09/2025 12:59:25:796 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/Hold_Music-HoldMusic] ***
+29/09/2025 12:59:25:796 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="HoldMusic"> 
+8:<property name="fetchtimeout" value="60s" /> 
+9:<property name="fetchaudio" value="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/EIPL_HoldMusic.wav" /> 
+10:<property name="fetchaudiodelay" value="5s" /> 
+11:<block> 
+12:<submit next="Hold_Music-Return?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+13:</block> 
+14:</form> 
+15:</vxml> 
+16:
+
+29/09/2025 12:59:26:156  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-Return
+29/09/2025 12:59:26:178 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "Hold_Music-Return" forwarding to "SendAPINRIC"
+29/09/2025 12:59:26:179  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SendAPINRIC
+29/09/2025 12:59:26:179 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Transaction Date Time :: 2025/09/29 12:59:26
+29/09/2025 12:59:26:179 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Request Date Time :: 2025/09/29 12:59:26
+29/09/2025 12:59:26:179 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Request Message :: {"NRIC":"1236549", "callid":"2025090291258555390599", "CallNumber":"+3854"}
+29/09/2025 12:59:26:179 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Process API URL :: https://172.17.31.119/api/v1/CRM/CheckCustomerNRIC
+29/09/2025 12:59:26:180 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExODciLCJjb2RlIjoiIiwiaXNJbnRlcm5hbFVzZXIiOiJ0cnVlIiwibmJmIjoxNzU5MTIxOTM1LCJleHAiOjE3NTkxMjI4MzUsImlhdCI6MTc1OTEyMTkzNSwiaXNzIjoiRXRpcWFBUElQb3J0YWwiLCJhdWQiOiJFdGlxYUFQSVBvcnRhbCJ9.srJXQD312EyRdMjIbNH9UDOlxwN6b3BxDodl8d5m6Ro
+29/09/2025 12:59:28:028 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Response Message :: {"NRICValidated":true,"OTPSent":true,"CIFRecordFound":true,"MultipleCIFRecord":false,"OTPId":"OTP-SMS-20250929-0004","OTPSentMobileNo":"7057","CIFRecordURL":"https://beta-crm.etiqa.com.sg/main.aspx?pagetype=entityrecord&etn=etq_customer&id=c08245c2-6088-ea11-813b-005056886f9f","CustomerRecordURL":"https://beta-crm.etiqa.com.sg/ISV/CustomWebApp/TwillioSearchCRM.html?channel=Voice&channelid=2025090291258555390599&channelfrom=+3854&cifid=c08245c2-6088-ea11-813b-005056886f9f","CIFId":"c08245c2-6088-ea11-813b-005056886f9f","Success":true,"Message":"Successfully called the CRM API VIPCustomervalidation","StatusCode":200}
+29/09/2025 12:59:28:028 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Response Date Time :: 2025/09/29 12:59:28
+29/09/2025 12:59:28:028  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SetTRLLog3
+29/09/2025 12:59:28:029  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [IVRTRL] to [workingvariables:cmmlog]
+29/09/2025 12:59:28:029  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InsTRLLog3
+29/09/2025 12:59:28:029  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-Begin
+29/09/2025 12:59:28:029  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-InsertDB
+29/09/2025 12:59:28:029 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Start -------
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : All Values ::: 
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ucid =  2025090291258555390599
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : uuid =  
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : trsname =  989971_3
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menudesc =  Life Insurance option 3
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : transdate =  2025/09/29 12:59:26
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : reqdate =  2025/09/29 12:59:26
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : respdate =  2025/09/29 12:59:28
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : reqmsg =  {"NRIC":"1236549", "callid":"2025090291258555390599", "CallNumber":"+3854"}
+29/09/2025 12:59:28:030 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : respmsg =  {"NRICValidated":true,"OTPSent":true,"CIFRecordFound":true,"MultipleCIFRecord":false,"OTPId":"OTP-SMS-20250929-0004","OTPSentMobileNo":"7057","CIFRecordURL":"https://beta-crm.etiqa.com.sg/main.aspx?pagetype=entityrecord&etn=etq_customer&id=c08245c2-6088-ea11-813b-005056886f9f","CustomerRecordURL":"https://beta-crm.etiqa.com.sg/ISV/CustomWebApp/TwillioSearchCRM.html?channel=Voice&channelid=2025090291258555390599&channelfrom=+3854&cifid=c08245c2-6088-ea11-813b-005056886f9f","CIFId":"c08245c2-6088-ea11-813b-005056886f9f","Success":true,"Message":"Successfully called the CRM API VIPCustomervalidation","StatusCode":200}
+29/09/2025 12:59:28:043 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Done -------
+29/09/2025 12:59:28:043  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-next
+29/09/2025 12:59:28:043 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "CMMReport-next" forwarding to "ChkAPIResult"
+29/09/2025 12:59:28:043  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ChkAPIResult
+29/09/2025 12:59:28:043  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:isAPIsuccuss] String Equal Ignorecase [Yes]
+29/09/2025 12:59:28:043  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition2] Expression [workingvariables:nric_found] Is True
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition3] Expression [workingvariables:nric_multirecord] Is False
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ChkOTPAPI
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:isOTPAPI] Is True
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ResetVal7
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [0] to [workingvariables:invalid]
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [OTP] to [workingvariables:frommenu]
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [] to [workingvariables:mobileinputmenu]
+29/09/2025 12:59:28:044  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : AnnInputOTP
+29/09/2025 12:59:28:046 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/AnnInputOTP] ***
+29/09/2025 12:59:28:046 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="AnnInputOTP"> 
+8:<block> 
+9:<prompt bargein="true" bargeintype="speech" timeout="10000ms"> 
+10:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9b_1_1.wav"/> 
+11:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0037.wav">:7</audio> 
+12:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0030.wav">:0 (zero)</audio> 
+13:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0035.wav">:5</audio> 
+14:<audio src="https://10.4.63.29:8003/MB_Phrases/english/standardAudio/0037.wav">:7</audio> 
+15:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9b_1_2.wav"/> 
+16:</prompt> 
+17:</block> 
+18:<block> 
+19:<submit next="InputOTP?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+20:</block> 
+21:</form> 
+22:</vxml> 
+23:
+
+29/09/2025 12:59:28:367  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InputOTP
+29/09/2025 12:59:28:380 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/InputOTP] ***
+29/09/2025 12:59:28:380 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="InputOTP"> 
+8:<property name="interdigittimeout" value="5s" /> 
+9:<property name="maxnbest" value="1"/> 
+10:<var name="nbest" expr="1"/> 
+11:<var name="InputOTP___value"/> 
+12:<var name="InputOTP___confidence"/> 
+13:<var name="InputOTP___utterance"/> 
+14:<var name="InputOTP___inputmode"/> 
+15:<var name="InputOTP___interpretation" expr="'undefined'"/> 
+16:<var name="InputOTP___noinputcount" expr="'0'"/> 
+17:<var name="InputOTP___nomatchcount" expr="'0'"/> 
+18:<var name="graminterp___otp" expr="'undefined'"/> 
+19:<field name="InputOTP" modal="false"> 
+20:<property name="termchar" value="#" /> 
+21:<grammar  mode="dtmf" xml:lang="en-us" weight="1.0" src="builtin:dtmf/digits?length=6" maxage="0"/> 
+22:<catch event="noinput"> 
+23:<assign name="_avayaNoinputCounter" expr="_avayaNoinputCounter + 1"/> 
+24:    <throw event="Input" message="no input"/> 
+25:</catch> 
+26:<catch event="nomatch"> 
+27:<assign name="_avayaNomatchCounter" expr="_avayaNomatchCounter + 1"/> 
+28:    <throw event="Input" message="no match"/> 
+29:</catch> 
+30:<catch event="Input"> 
+31:<var name="workingvariables___invalid_msg" expr="try {objectToString(_message)} catch (errMsg) {'undefined'}"/> 
+32:<assign name="InputOTP___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+33:<assign name="InputOTP___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+34:<submit next="ErrorHandlerOTP?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="workingvariables___invalid_msg InputOTP___noinputcount InputOTP___nomatchcount" method="post" enctype="multipart/form-data"/> 
+35:</catch> 
+36:<filled> 
+37:<assign name="InputOTP___confidence" expr="getnbest('confidence', nbest)"/> 
+38:<assign name="InputOTP___utterance" expr="getnbest('utterance', nbest)"/> 
+39:<assign name="InputOTP___inputmode" expr="getnbest('inputmode', nbest)"/> 
+40:<assign name="InputOTP___interpretation" expr="getnbest('interpretation', nbest)"/> 
+41:<if cond="startswith(InputOTP___interpretation, 'undefined') == true "> 
+42:    <assign name="InputOTP___interpretation" expr="getnbest('interpretation', nbest)"/> 
+43:</if> 
+44:<assign name="InputOTP___value" expr="InputOTP___interpretation"/> 
+45:<assign name="InputOTP___noinputcount" expr="getnbestnmni(_avayaNoinputCounter, nbest)"/> 
+46:<assign name="InputOTP___nomatchcount" expr="getnbestnmni(_avayaNomatchCounter, nbest)"/> 
+47:</filled> 
+48:</field> 
+49:<block> 
+50:<submit next="HoldMusic4?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="InputOTP___value InputOTP___confidence InputOTP___utterance InputOTP___inputmode InputOTP___interpretation InputOTP___noinputcount InputOTP___nomatchcount" method="post"/> 
+51:</block> 
+52:</form> 
+53:</vxml> 
+54:
+
+29/09/2025 12:59:35:592  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : HoldMusic4
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___confidence to complex: InputOTP:confidence  as [1]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___inputmode to complex: InputOTP:inputmode  as [dtmf]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___interpretation to complex: InputOTP:interpretation  as [475374]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___noinputcount to complex: InputOTP:noinputcount  as [0]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___nomatchcount to complex: InputOTP:nomatchcount  as [0]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___utterance to complex: InputOTP:utterance  as [475374]
+29/09/2025 12:59:35:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Storing :InputOTP___value to complex: InputOTP:value  as [475374]
+29/09/2025 12:59:35:605  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-Begin
+29/09/2025 12:59:35:605  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-HoldMusic
+29/09/2025 12:59:35:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/Hold_Music-HoldMusic] ***
+29/09/2025 12:59:35:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="HoldMusic"> 
+8:<property name="fetchtimeout" value="60s" /> 
+9:<property name="fetchaudio" value="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/EIPL_HoldMusic.wav" /> 
+10:<property name="fetchaudiodelay" value="5s" /> 
+11:<block> 
+12:<submit next="Hold_Music-Return?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+13:</block> 
+14:</form> 
+15:</vxml> 
+16:
+
+29/09/2025 12:59:35:916  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Hold_Music-Return
+29/09/2025 12:59:35:928 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "Hold_Music-Return" forwarding to "GetOTP"
+29/09/2025 12:59:35:928  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : GetOTP
+29/09/2025 12:59:35:928 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Transaction Date Time :: 2025/09/29 12:59:35
+29/09/2025 12:59:35:928 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Request Date Time :: 2025/09/29 12:59:35
+29/09/2025 12:59:35:928 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Request Message :: {"CallId":"2025090291258555390599", "OTPValue":"475374", "OTPId":"OTP-SMS-20250929-0004", "CallNumber": "3854"}
+29/09/2025 12:59:35:928 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Process API URL :: https://172.17.31.119/api/v1/CRM/VerifyCustomerOTP
+29/09/2025 12:59:35:929 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Token :: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjExODciLCJjb2RlIjoiIiwiaXNJbnRlcm5hbFVzZXIiOiJ0cnVlIiwibmJmIjoxNzU5MTIxOTM1LCJleHAiOjE3NTkxMjI4MzUsImlhdCI6MTc1OTEyMTkzNSwiaXNzIjoiRXRpcWFBUElQb3J0YWwiLCJhdWQiOiJFdGlxYUFQSVBvcnRhbCJ9.srJXQD312EyRdMjIbNH9UDOlxwN6b3BxDodl8d5m6Ro
+29/09/2025 12:59:36:311 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Response Message :: {"IsVIP":true,"IsOTPVerified":true,"Success":true,"Message":"Successfully called the CRM API VerifyOTP","StatusCode":200}
+29/09/2025 12:59:36:311 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : API Response Date Time :: 2025/09/29 12:59:36
+29/09/2025 12:59:36:311  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SetTRLLog4
+29/09/2025 12:59:36:312  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [IVRTRL] to [workingvariables:cmmlog]
+29/09/2025 12:59:36:312  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InsTRLLog4
+29/09/2025 12:59:36:312  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-Begin
+29/09/2025 12:59:36:312  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-InsertDB
+29/09/2025 12:59:36:312 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Start -------
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : All Values ::: 
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ucid =  2025090291258555390599
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : uuid =  
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : trsname =  989971_3
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menudesc =  Life Insurance option 3
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : transdate =  2025/09/29 12:59:35
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : reqdate =  2025/09/29 12:59:35
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : respdate =  2025/09/29 12:59:36
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : reqmsg =  {"CallId":"2025090291258555390599", "OTPValue":"475374", "OTPId":"OTP-SMS-20250929-0004", "CallNumber": "3854"}
+29/09/2025 12:59:36:313 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : respmsg =  {"IsVIP":true,"IsOTPVerified":true,"Success":true,"Message":"Successfully called the CRM API VerifyOTP","StatusCode":200}
+29/09/2025 12:59:36:314 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Done -------
+29/09/2025 12:59:36:315  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-next
+29/09/2025 12:59:36:315 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "CMMReport-next" forwarding to "ChkOTP"
+29/09/2025 12:59:36:315  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ChkOTP
+29/09/2025 12:59:36:315  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:otp_verified] Is True
+29/09/2025 12:59:36:315  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [PASS] to [workingvariables:verify_result]
+29/09/2025 12:59:36:315  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : AnnOTPVerified
+29/09/2025 12:59:36:316 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/AnnOTPVerified] ***
+29/09/2025 12:59:36:316 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<property name="fetchaudio" value="http://10.4.63.29:9443/EIPLIVR/data/ddfetchAudio.wav" /> 
+8:<form id="AnnOTPVerified"> 
+9:<block> 
+10:<prompt bargein="true" bargeintype="speech" timeout="8000ms"> 
+11:<audio src="https://10.4.63.137/Maybank_CMMPhrases/english/CMM/EIPL/P9b_VerificationSuccessful.wav"/> 
+12:</prompt> 
+13:</block> 
+14:<block> 
+15:<submit next="ChkAICTrans?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR"/> 
+16:</block> 
+17:</form> 
+18:</vxml> 
+19:
+
+29/09/2025 12:59:48:809  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ChkAICTrans
+29/09/2025 12:59:48:823  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:aic_transfer] String Equal Ignorecase [No]
+29/09/2025 12:59:48:834  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CheckICData
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SetICVal
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [EIPL_] to [lang(L)]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Concatenating [log_history:langauge] to [lang(L)]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [workingvariables:verify_result] to [verify(L)]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition1] Expression [workingvariables:verify_result] String Equal Ignorecase [PASS]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [PASS] to [verify(L)]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [verify(L)] to [vdu_cache:A0_PINVerified]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A0_XCIF]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A1_CIF_AID]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A2_CIF_Cards]
+29/09/2025 12:59:48:835  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A3_CIF_NRIC]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [log_history:cust_segment] to [vdu_cache:A4_VIP]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A5_Salutation]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A6_Customer_Name]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [log_history:nric] to [vdu_cache:A7_Customer_NRIC]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [   ] to [vdu_cache:A8_DOB]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [lang(L)] to [vdu_cache:A9_Language]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [workingvariables:tmplastmenu] to [vdu_cache:B1_IVR_Ops]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : [condition2] Expression [workingvariables:zocid] Not Empty [null]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [workingvariables:zocid] to [vdu_cache:Z0_cid]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [session:dnis] to [vdu_cache:Z0_cb_vdn]
+29/09/2025 12:59:48:836  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [session:dnis] to [vdu_cache:Z0_vdn]
+29/09/2025 12:59:48:836 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | ====== Send data to AIC =======
+29/09/2025 12:59:48:836 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A0 PIN :: | vdu_cache:A0_PINVerified : PASS
+29/09/2025 12:59:48:836 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A0 XCIF:: | vdu_cache:A0_XCIF :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A1 AID:: | vdu_cache:A1_CIF_AID :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A2 Cards :: | vdu_cache:A2_CIF_Cards :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A3 NRIC :: | vdu_cache:A3_CIF_NRIC :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A4 VIP :: | vdu_cache:A4_VIP : Yes
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A5 Salutation :: | vdu_cache:A5_Salutation :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A6 Customer Name :: | vdu_cache:A6_Customer_Name :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A7 Customer NRIC :: | vdu_cache:A7_Customer_NRIC : 1236549
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A8 DOB :: | vdu_cache:A8_DOB :    
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | A9 Langauge :: | vdu_cache:A9_Language : EIPL_english
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | B1 Menu :: | vdu_cache:B1_IVR_Ops : Life_Insurance_option_3
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | Z0 CB VDN :: | vdu_cache:Z0_cb_vdn : 4142
+29/09/2025 12:59:48:837 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | Z0 CID :: | vdu_cache:Z0_cid : 2025090291258555390599&channelfrom=+3854&cif
+29/09/2025 12:59:48:838 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : session id:MCDEVVPMS-2025272045854-16 | EIPLIVR:SetICVal | Z0 VDN :: | vdu_cache:Z0_vdn : 4142
+29/09/2025 12:59:48:838  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : ICTransfer
+29/09/2025 12:59:48:838  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Executing IPluggableExecutable com.avaya.sce.ic.ui.icConnector : SetVDU
+29/09/2025 12:59:48:838 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ICCommand.execute:  Talking to ICC using URL: http://10.4.63.29:9443/icconnector/RequestWebID
+29/09/2025 12:59:48:838 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ICCommand.execute:  setting session cookie to JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR
+29/09/2025 12:59:48:851  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Sending to ICC: http://10.4.63.29:9443/icconnector/ICConnectorWebServer?reqid=1426-765&timeout=8000&cmdType=SetVDU&vdu_id=68da120d000000000a043f8323300002&fields=%22A0_PINVerified%22%7C%22PASS%22%2C%22A0_XCIF%22%7C%22+++%22%2C%22A1_CIF_AID%22%7C%22+++%22%2C%22A2_CIF_Cards%22%7C%22+++%22%2C%22A3_CIF_NRIC%22%7C%22+++%22%2C%22A4_VIP%22%7C%22Yes%22%2C%22A5_Salutation%22%7C%22+++%22%2C%22A6_Customer_Name%22%7C%22+++%22%2C%22A7_Customer_NRIC%22%7C%221236549%22%2C%22A8_DOB%22%7C%22+++%22%2C%22A9_Language%22%7C%22EIPL_english%22%2C%22B1_IVR_Ops%22%7C%22Life_Insurance_option_3%22%2C%22Z0_cb_vdn%22%7C%224142%22%2C%22Z0_cid%22%7C%222025090291258555390599%26channelfrom%3D%2B3854%26cif%22%2C%22Z0_vdn%22%7C%224142%22&channel=5391&issip=0
+29/09/2025 12:59:49:126  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : VRUSM response: responseType=setvdu.response&reqID=1426-765
+29/09/2025 12:59:49:126  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Completed IPluggableExecutable com.avaya.sce.ic.ui.icConnector
+29/09/2025 12:59:49:126  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Executing IPluggableExecutable com.avaya.sce.ic.ui.icConnector : TransferCall
+29/09/2025 12:59:49:126 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ICCommand.execute:  Talking to ICC using URL: http://10.4.63.29:9443/icconnector/RequestWebID
+29/09/2025 12:59:49:126 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ICCommand.execute:  setting session cookie to JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR
+29/09/2025 12:59:49:127  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Sending to ICC: http://10.4.63.29:9443/icconnector/ICConnectorWebServer?reqid=1427-80&timeout=8000&cmdType=Transfer&vdu_id=68da120d000000000a043f8323300002&transferExt=5704&channel=5391&issip=0
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : VRUSM response: responseType=transfer.response&reqID=1427-80
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Completed IPluggableExecutable com.avaya.sce.ic.ui.icConnector
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : SetHistLogTRN
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [IVRHistory] to [workingvariables:cmmlog]
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Assigning [AT] to [log_history:trdiscflag]
+29/09/2025 12:59:49:603  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : InsertLog
+29/09/2025 12:59:49:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-Begin
+29/09/2025 12:59:49:604  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-InsertDB
+29/09/2025 12:59:49:604 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Start -------
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get Date Now :: 20250929
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Get Time Now :: 125949
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : All Values ::: 
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : startdate =  20250929
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : starttime =  125855
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : enddate =  20250929
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : endtime =  125949
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : duration =  54
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : callid =  3854
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : dnis =  4142
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : callrefid =  2025090291258555390599
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : calltype =  D
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : callorig =  D
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : trdiscflag =  AT
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : lastmenuid =  Life Insurance option 3
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : langauge =  english
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : company =  
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : cif =  
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : empname =  
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : customindic =  
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : custsegment =  Yes
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : custstatus =  
+29/09/2025 12:59:49:605 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : tpin =  NA
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : otp =  NA
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : nric =  1236549
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : phonecode =  
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menu1 =  Main Menu Existing Policy option 2
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menu2 =  Life Insurance option 3
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menu3 =  
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : menu4 =  
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : queuetime =  NA
+29/09/2025 12:59:49:606 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : transfervdn =  5704
+29/09/2025 12:59:49:607 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Inset CMM Log Done -------
+29/09/2025 12:59:49:607  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : CMMReport-next
+29/09/2025 12:59:49:608 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Subflow return node "CMMReport-next" forwarding to "Disc"
+29/09/2025 12:59:49:608  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : Disc
+29/09/2025 12:59:49:609 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/Disc] ***
+29/09/2025 12:59:49:609 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<form id="Disc"> 
+8:<block> 
+9:<disconnect/> 
+10:</block> 
+11:<catch event="connection.disconnect"> 
+12:<var name="avayadonotsave___noinputcount" expr="try {_avayaNoinputCounter} catch (errMsg) {'0'}"/> 
+13:<var name="avayadonotsave___nomatchcount" expr="try {_avayaNomatchCounter} catch (errMsg) {'0'}"/> 
+14:<submit next="end?___DDSESSIONID=JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-%212043909807%211759121934484%3A%2FEIPLIVR" namelist="avayadonotsave___noinputcount avayadonotsave___nomatchcount" method="get"/> 
+15:</catch> 
+16:</form> 
+17:</vxml> 
+18:
+
+29/09/2025 12:59:50:215  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Using SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR servlet : end
+29/09/2025 12:59:50:227 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : *** Reply for [/EIPLIVR/end] ***
+29/09/2025 12:59:50:228 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : 0:<?xml version="1.0" encoding="UTF-8"?> 
+1:<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us"> 
+2:<meta name="author" content="Avaya Aura Orchestration Designer"/> 
+3:<meta name="runtime-version" content="07.10.12.02"/> 
+4:<meta name="runtimecommon-version" content="07.10.12.02.p2"/> 
+5:<meta name="runtime-hotfixes" content="AAOD-306, AAOD-303, Dynamic Node Report Name Breadcrumb only, AAOD-320"/> 
+6:<meta name="copyright" content="Copyright (c) 2002-2011, Avaya"/> 
+7:<var name="_avayaExitReason" expr="''"/> 
+8:<var name="_avayaExitInfo1" expr="''"/> 
+9:<var name="_avayaExitInfo2" expr="''"/> 
+10:<var name="_avayaExitCustomerId" expr="''"/> 
+11:<var name="_avayaExitPreferredPath" expr="'1'"/> 
+12:<var name="_avayaExitTopic" expr="''"/> 
+13:<var name="_avayaExitParentId" expr="''"/> 
+14:<form id="end"> 
+15:<block> 
+16:<exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitReason _avayaExitParentId"/> 
+17:<catch event="connection.disconnect"> 
+18:    <exit namelist="_avayaExitReason _avayaExitInfo1 _avayaExitInfo2 _avayaExitCustomerId _avayaExitPreferredPath _avayaExitTopic _avayaExitReason _avayaExitParentId"/> 
+19:</catch> 
+20:</block> 
+21:</form> 
+22:</vxml> 
+23:
+
+29/09/2025 12:59:50:233  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Removing session from AvayaSessionTermination Servlet
+29/09/2025 12:59:50:245  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+29/09/2025 12:59:50:245  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : HTTP Session lost removing SCESession JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484
+29/09/2025 12:59:50:245  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : SCESession Removed
+29/09/2025 12:59:50:245 DEBUG - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : Removing 1 session stack frames.
+29/09/2025 12:59:50:245  INFO - JpiT1oiU55gUxZTfYzHyFTyhzdbo5G780eJp3R821ZSdow_NmuJ-!2043909807!1759121934484:/EIPLIVR : ** Popped Stack Frame [/EIPLIVR]
+
+Thanks & Regards
+SureshKumar S
+Project Manager,
+CRM & Collaboration Services | IS – DC & CRM
+Tel:64103854 | FAX:64840718| HP:98997057
+Advanced leave notice:  NA
+
